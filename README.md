@@ -1,28 +1,57 @@
 # Burger
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+Burger is an Angular application for an online burger restaurant. It allows customers to browse the menu, place orders, and view order confirmation. The project showcases various Angular concepts such as components, services, forms, HTTP requests, and routing.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Browse the menu and view burger options
+- Place orders by selecting burgers and providing contact information
+- View order confirmation with details
+- Change currency to different options
+- Responsive design for optimal viewing on different devices
 
-## Code scaffolding
+## Technologies Used
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular
+- Angular CLI
+- HTML
+- CSS
+- TypeScript
+- RxJS
+- Bootstrap (for styling)
 
-## Build
+## Installation
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clone the repository: `git clone https://github.com/your-username/burger.git`
+2. Navigate to the project directory: `cd burger`
+3. Install dependencies: `npm install`
 
-## Running unit tests
+## Usage
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1. Start the development server: `ng serve`
+2. Open your browser and navigate to `http://localhost:4200`
 
-## Running end-to-end tests
+## Contributing
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Contributions to the Burger project are welcome! If you find a bug or have an enhancement suggestion, please open an issue or submit a pull request. Make sure to follow the existing code style and guidelines.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-"# Burger" 
+## Deployment
+
+https://rysbeck.github.io/Burger/
+
+## Acknowledgements
+
+The Burger project was developed as part of a learning experience in Angular. Special thanks to the Angular team and the open-source community for their valuable resources and contributions.
+
+## Contact
+
+If you have any questions or feedback regarding the Burger project, please feel free to contact the project maintainer:
+
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="16" height="16">](https://www.t.me/rysbeck)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="16" height="16">](https://www.instagram.com/orozaliev.rsb/)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" width="16" height="16">](https://wa.me/+971586014711)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="16" height="16">](https://m.me/rysbeck)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="16" height="16">](https://www.linkedin.com/in/rysbeck-orozaliev/)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="LinkedIn" width="16" height="16">](mailto:rysbeck1@gmail.com)
+
