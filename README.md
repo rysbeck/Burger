@@ -2,7 +2,10 @@
 
 Burger is an Angular application for an online burger restaurant. It allows customers to browse the menu, place orders, and view order confirmation. The project showcases various Angular concepts such as components, services, forms, HTTP requests, and routing.
 
-![Burger GIF](Burger.gif)
+<p align="center">
+  <img src="Burger.gif" alt="Burger GIF" width="960" height="544">
+</p>
+
 
 ## Features
 
